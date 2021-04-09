@@ -15,7 +15,7 @@ After that is installed, then write in your terminal:
 auto-py-to-exe
 ```
 
-To make your .py file to an .exe file you will first have to get the code so waht you will have to do is find the .py file and insert it in.
+To make your .py file to an .exe file you will first have to get the code so what you will have to do is find the .py file and insert it in.
 
 After you have done that, you can make the file a zip folder (one directory) or just one file (I prefer to have the one file one)
 

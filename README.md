@@ -1,4 +1,4 @@
-# convert-py-to-exe
+# Convert-py-to-exe
 Learn how to turn py to an application file (exe file)
 
 **Note that you will need wifi to do this**
